@@ -1,0 +1,9 @@
+system/system/system_ext/apex/com.android.vndk.v30.apex
+system/system/system_ext/priv-app/Settings/Settings.apk
+system/system/app/MIUIVideoPlayer/MIUIVideoPlayer.apk
+system/system/priv-app/MIUIGalleryGlobal/MIUIGalleryGlobal.apk
+system/system/priv-app/MiuiCamera/MiuiCamera.apk
+product/app/WebViewGoogle/WebViewGoogle.apk
+product/app/Messages/Messages.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/GmsCore/GmsCore.apk
