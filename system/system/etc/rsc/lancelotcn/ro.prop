@@ -1,0 +1,4 @@
+ro.mediatek.rsc_name=lancelotcn
+ro.sys.current_rsc_path=/system/etc/rsc/lancelotcn
+ro.product.current_rsc_path=/product/etc/rsc/lancelotcn
+ro.sys_ext.current_rsc_path=/system/system_ext/etc/rsc/lancelotcn
